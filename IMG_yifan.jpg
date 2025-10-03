@@ -1,0 +1,4 @@
+git add assets/example.png
+git commit -m "添加图片"
+git push origin main
+![示例图片](assets/example.png)
